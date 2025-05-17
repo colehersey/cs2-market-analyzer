@@ -13,7 +13,7 @@ def main():
     print("Starting API connection test...")
     test_connection()
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
 
 
