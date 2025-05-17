@@ -1,2 +1,13 @@
-# QUANTUM ANAMOLY MARKET DECTECTOR USING DEEP LEARNING MODELS
-# Real-time market anomaly detection based off of deep learning models and experimenting with quantum algorithms to optimize efficiency
+# CS2 Market Analyzer
+
+This project is a data-driven tool designed to analyze the historical and real-time market prices of CS2 (Counter-Strike 2) skins, knives, and gloves. The goal is to identify undervalued listings and predict price trends using data science and machine learning techniques.
+
+The project focuses on:
+
+- Fetching and storing CS2 market data from public APIs
+- Building a structured local database (SQLite or PostgreSQL)
+- Performing exploratory data analysis (EDA) on skin price trends
+- Developing machine learning models to forecast price direction
+- Deploying a system that helps users find profitable deals in real-time
+
+This project is designed to be both a learning tool and a functional prototype for personal or semi-automated trading assistance.
